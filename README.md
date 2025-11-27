@@ -62,8 +62,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
 
-  <!-- LeetCode Icon -->
   <a href="https://leetcode.com/u/_MaZen_/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1MCr8QRO4F9bjSXfeGzwkn2ocx-CSgXYv/view?usp=drive_link" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" height="30" width="30" />
   </a>
 </p>
